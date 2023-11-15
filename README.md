@@ -4,6 +4,8 @@ Simple python application that helps users build EFIs.
 ## Status
 Unusable. Project in a VERY early state, basically just downloads and unzips files xD
 
+If you want to test the functionality, after running the script delete the "propertree" folder from within the "tools" folder, and then download OpenCore, than download ProperTree, in that order.
+
 ## Contributing
 If you have code to contribute, please feel free to open a pull request! 
 
