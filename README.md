@@ -2,7 +2,7 @@
 Simple python application that helps users build EFIs. 
 
 ## Notice
-I am working a full time job so I work on this over than weekends and in the evenings making development slow. Hope you all understand.
+I am working a full time job so I work on this over the weekends and in the evenings, making development slow. Hope you all understand.
 
 ## Status
 Unusable. Project in a VERY early state, basically just downloads and unzips files xD
