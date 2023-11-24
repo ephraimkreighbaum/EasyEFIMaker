@@ -12,6 +12,6 @@ If you want to test the functionality, after running the script delete the "prop
 ## Contributing
 If you have code to contribute, please feel free to open a pull request! 
 
-If you have a custom EFI for a specific motherboard DM me on Discord. My username is`ephraimk`.
+If you have a custom EFI for a specific motherboard DM me on Discord. My username is `ephraimk`.
 
 I can add it to the application! 
